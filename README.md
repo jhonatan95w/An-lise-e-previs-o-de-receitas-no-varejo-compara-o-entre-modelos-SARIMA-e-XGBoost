@@ -1,1 +1,1 @@
-# An-lise-e-previs-o-de-receitas-no-varejo-compara-o-entre-modelos-SARIMA-e-XGBoost
+# Análise e previsão de receitas no varejo: Comparação entre modelos SARIMA e XGBoost
