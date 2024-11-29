@@ -11,5 +11,5 @@ Os principais resultados obtidos estão apresentados a seguir, e mais detalhes s
 ## Dados
 
 <br>
-<img src ="https://github.com/jhonatan95w/SeriesTemporais-Varejo/tree/main/Images/Grafico_ReceitaTotal.png?raw=true"width="840">
+![Gráfico da Receita Total](https://github.com/jhonatan95w/SeriesTemporais-Varejo/blob/a012796bee12cf7e4c6dd5c6d175321aa64b4dd0/Images/Grafico_ReceitaTotal.png)
 <br>
