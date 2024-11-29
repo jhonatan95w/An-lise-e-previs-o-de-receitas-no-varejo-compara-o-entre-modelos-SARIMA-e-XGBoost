@@ -9,7 +9,8 @@ A análise começa com a série de receita total da loja e, em seguida, é esten
 Os principais resultados obtidos estão apresentados a seguir, e mais detalhes sobre a implementação e a metodologia podem ser encontrados nos notebooks utilizados para a análise.
 
 ## Dados
-
-<br>
-![Gráfico da Receita Total](https://github.com/jhonatan95w/SeriesTemporais-Varejo/blob/a012796bee12cf7e4c6dd5c6d175321aa64b4dd0/Images/Grafico_ReceitaTotal.png)
-<br>
+São empregados séries de demanda e preços mensais de janeiro de 2021 a junho de 2024, em um total de 42 valores por série (total e para as 15 categorias de produtos).
+<div style="display: flex; justify-content: space-between;">
+  <img src="https://raw.githubusercontent.com/jhonatan95w/SeriesTemporais-Varejo/e8a725030a39dd8e2ec3256d9f9c16fd91a64ff5/Images/Dados_ReceitaTotal.png" width="200">
+  <img src="https://raw.githubusercontent.com/jhonatan95w/SeriesTemporais-Varejo/a012796bee12cf7e4c6dd5c6d175321aa64b4dd0/Images/Grafico_ReceitaTotal.png" width="800">
+</div>
