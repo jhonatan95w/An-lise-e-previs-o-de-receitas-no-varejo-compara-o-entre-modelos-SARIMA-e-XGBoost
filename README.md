@@ -62,6 +62,49 @@ São empregados séries de demanda e preços mensais de janeiro de 2021 a junho 
 
 ## Conclusão
 
-Séries de varejo são bastante desafiadoras pois incorparam variações de demanda, preços, troca de produtos etc. Apesar disso, os modelos obtidos fornecem uma estimativa, ao menos para metade dos produtos e incluindo receita total, útil diante da grande volatilidade que as séries apresentam, estando o resultado dos mdoelos estatísticos muito próximo dos obtidos pelos modelos de ML.
+Este trabalho teve como objetivo analisar e prever as receitas mensais de diversas categorias do varejo utilizando os modelos SARIMA e XGBoost. Embora as séries de dados de varejo apresentem desafios devido à volatilidade e fatores externos, os modelos forneceram estimativas boas, especialmente para a receita total e categorias com padrões mais regulares. O modelo SARIMA se destacou nas previsões de curto prazo (1 mês), enquanto o XGBoost foi mais eficaz em horizontes maiores (3 meses), adaptando-se melhor a relações complexas nos dados. No entanto, algumas categorias, como Natal e Vestuário, apresentaram maiores dificuldades devido a fatores sazonais e externos. As limitações indicam a necessidade de ajustes nos modelos, como a inclusão de variáveis exógenas, para melhorar a precisão. Apesar disso, as previsões foram úteis para o planejamento de estoques e orçamentos. Futuros estudos podem explorar técnicas mais avançadas, como redes neurais, para aprimorar ainda mais as previsões em cenários mais complexos.
 
 ## Referências
+
+[1] Santos, Angela Maria Medeiros Martins & Costa, Claudia Soares (1997). Características gerais do varejo no Brasil. BNDES. Banco Nacional de Desenvolvimento Econômico e Social.
+
+[2] Botelho, Delane & Guissoni, Leandro (2016). Varejo: competitividade e inovação. Revista de Administração de Empresas, 56(6), 596-599. SciELO Brasil.
+
+[3] de Oliveira, Rogério & Albarracín, Orlando YE & da Silva, Gustavo Rocha (2024). Introdução às Séries Temporais: Uma Abordagem Prática em Python. Github.
+
+[4] Hyndman, RJ (2018). Forecasting: principles and practice (Capítulo [2.3]: Time series patterns). OTexts. Link.
+
+[5] Box, George EP & Jenkins, Gwilym M & Reinsel, Gregory C & Ljung, Greta M (2015). Time series analysis: forecasting and control. John Wiley & Sons.
+
+[6] Chen, Tianqi & Guestrin, Carlos (2016). Xgboost: A scalable tree boosting system. Proceedings of the 22nd ACM SIGKDD International Conference on Knowledge Discovery and Data Mining, 785-794. Disponível em: https://dl.acm.org/doi/10.1145/2939672.2939785.
+
+[7] Pinto, Ricardo Aurélio Quinhões et al. (2013). Gestão de estoque e lean manufacturing: estudo de caso em uma empresa metalúrgica. Revista Administração em Diálogo-RAD, 15(1).
+
+[8] Holanda, Briana Maria Souza et al. (2022). Gestão e organização do estoque em empresas de varejo: um estudo comparativo de duas empresas de Loanda, Paraná. Desenvolve Revista de Gestão do Unilasalle, 11(3).
+
+[9] Oliveira, Anderson dos Santos de et al. (2024). Análise comparativa de modelos de previsão para receitas correntes mensais do estado de Alagoas: abordagens econométricas e redes neurais. UFAL.
+
+[10] Silveira, Ian Vieira et al. (2019). Modelo de previsão de demanda com o uso de aprendizado supervisionado de máquina: um estudo de caso em uma empresa de varejo. UFSC. Florianópolis, SC.
+
+[11] Lima, José Eduardo Carvalho & de Castro, Lucas Ferreira & Cartaxo, Glauber Araujo Alencar (2019). Aplicação do modelo SARIMA na previsão de demanda no setor calçadista. ID on line. Revista de psicologia, 13(46), 892-913.
+
+[12] Walter, Olga Maria Formigoni Carvalho & Henning, Elisa & Moro, Graciela & Samohyl, Robert Wayne (2013). Aplicação de um modelo SARIMA na previsão de vendas de motocicletas. Exacta, 11(1), 77-88. Universidade Nove de Julho.
+
+[13] Divisekara, Roshani W & Jayasinghe, GJMSR & Kumari, KWSN (2020). Forecasting the red lentils commodity market price using SARIMA models. SN Business & Economics, 1(1), 20. Springer.
+
+[14] Las Casas, Alexandre Luzzi & Garcia, Maria Tereza (2007). Estratégias de marketing para varejo. In Inovações e diferenciações estratégicas que fazem a diferença no marketing de varejo. São Paulo: Novatec.
+
+[15] Scikit-learn (2024). Metrics and scoring: quantifying the quality of predictions. Disponível em: https://scikit-learn.org/1.5/modules/model_evaluation.html. Acesso em: 12 de novembro de 2024.
+
+[16] Ryan Holbrook (2020). Time Series as Features. Disponível em: https://www.kaggle.com/code/ryanholbrook/time-series-as-features. Acesso em: 19 de novembro de 2024.
+
+[17] Eda Kavlakoglu, Erika Russi (2024). O que é o XGBoost?. Disponível em: https://www.ibm.com/br-pt/topics/xgboost. Acesso em: 12 nov. 2024.
+
+[18] Alexandre Zajic (2022). What Is Akaike Information Criterion (AIC)? Disponível em: https://builtin.com/data-science/what-is-aic. Acesso em: 19 nov. 2024.
+
+
+
+
+
+
+
