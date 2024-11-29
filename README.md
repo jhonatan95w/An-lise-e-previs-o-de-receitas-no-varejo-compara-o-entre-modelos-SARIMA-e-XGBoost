@@ -9,3 +9,7 @@ A análise começa com a série de receita total da loja e, em seguida, é esten
 Os principais resultados obtidos estão apresentados a seguir, e mais detalhes sobre a implementação e a metodologia podem ser encontrados nos notebooks utilizados para a análise.
 
 ## Dados
+
+<br>
+<img src ="https://github.com/jhonatan95w/SeriesTemporais-Varejo/tree/main/Images/Grafico_ReceitaTotal.png?raw=true"width="840">
+<br>
