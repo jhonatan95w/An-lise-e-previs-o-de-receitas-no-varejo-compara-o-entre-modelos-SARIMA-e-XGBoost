@@ -1,7 +1,7 @@
 # Análise e previsão de receitas no varejo: Comparação entre modelos SARIMA e XGBoost
 
-Este projeto está associado ao artigo:
-- [Análise e previsão de receitas no varejo: comparação entre modelos SARIMA e XGBoost](https://www.overleaf.com/read/wtkpwgsrzgwk#57ac26)
+Artigo:
+- [Análise e previsão de receitas no varejo: comparação entre modelos SARIMA e XGBoost](https://github.com/jhonatan95w/SeriesTemporais-Varejo/blob/dc61e0850ec04dab6ae3ac8db05cdaaf5305f995/AnaliseSeriesTemporaisVarejo_ComparacoesSarimaXGBoost.pdf)
 
 ## Resumo
 
