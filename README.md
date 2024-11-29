@@ -1,5 +1,8 @@
 # Análise e previsão de receitas no varejo: Comparação entre modelos SARIMA e XGBoost
 
+Este projeto está associado ao artigo:
+- [Análise e previsão de receitas no varejo: comparação entre modelos SARIMA e XGBoost](https://www.overleaf.com/read/wtkpwgsrzgwk#57ac26)
+
 ## Resumo
 
 Aqui, aplicamos e analisamos modelos estatísticos (SARIMA) e de aprendizado de máquina (XGBoost) para prever as receitas futuras de uma loja no setor de varejo. O objetivo é identificar os melhores modelos para prever as receitas tanto do próximo mês quanto dos três meses subsequentes, ao longo do ano.
@@ -63,6 +66,11 @@ São empregados séries de demanda e preços mensais de janeiro de 2021 a junho 
 ## Conclusão
 
 Este trabalho teve como objetivo analisar e prever as receitas mensais de diversas categorias do varejo utilizando os modelos SARIMA e XGBoost. Embora as séries de dados de varejo apresentem desafios devido à volatilidade e fatores externos, os modelos forneceram estimativas boas, especialmente para a receita total e categorias com padrões mais regulares. O modelo SARIMA se destacou nas previsões de curto prazo (1 mês), enquanto o XGBoost foi mais eficaz em horizontes maiores (3 meses), adaptando-se melhor a relações complexas nos dados. No entanto, algumas categorias, como Natal e Vestuário, apresentaram maiores dificuldades devido a fatores sazonais e externos. As limitações indicam a necessidade de ajustes nos modelos, como a inclusão de variáveis exógenas, para melhorar a precisão. Apesar disso, as previsões foram úteis para o planejamento de estoques e orçamentos. Futuros estudos podem explorar técnicas mais avançadas, como redes neurais, para aprimorar ainda mais as previsões em cenários mais complexos.
+
+## Autores
+
+- **Jhonatan Zhang Deng**  
+- **Rogério de Oliveira** - *Orientador do projeto*
 
 ## Referências
 
