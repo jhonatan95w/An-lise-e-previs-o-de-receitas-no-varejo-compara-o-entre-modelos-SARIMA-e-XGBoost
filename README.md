@@ -72,7 +72,7 @@ Este trabalho teve como objetivo analisar e prever as receitas mensais de divers
 
 [3] de Oliveira, Rogério & Albarracín, Orlando YE & da Silva, Gustavo Rocha (2024). Introdução às Séries Temporais: Uma Abordagem Prática em Python. Github.
 
-[4] Hyndman, RJ (2018). Forecasting: principles and practice (Capítulo [2.3]: Time series patterns). OTexts. Link.
+[4] Hyndman, RJ (2018). Forecasting: principles and practice (Capítulo [2.3]: Time series patterns). OTexts.
 
 [5] Box, George EP & Jenkins, Gwilym M & Reinsel, Gregory C & Ljung, Greta M (2015). Time series analysis: forecasting and control. John Wiley & Sons.
 
